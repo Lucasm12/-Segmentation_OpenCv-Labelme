@@ -13,5 +13,5 @@ conda install labelme
 - E com isso foi gerado máscara do respectivo ponto que foi marcado 
 ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/img1.png)
 
-- Tutorial : (https://github.com/wkentaro/labelme)
+
 Projeto desenvolvido por Lucas Marques (https://github.com/Lucasm12) :man::computer:
