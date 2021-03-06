@@ -1,5 +1,6 @@
-# -Segmentation_OpenCv-Labelme
+# Segmentation_OpenCv-Labelme
 Ultilizando a ferramenta Labelme para segmatar uma imagem e aplicando o método de renderização para binarizar a imagem segmentada
+
 
 ```bash
 # python3
