@@ -8,3 +8,5 @@ conda create --name=labelme python=3.6
 conda activate labelme
 conda install labelme
 ```
+
+Projeto desenvolvido por [Lucas Marques (https://github.com/Lucasm12) :men::computer:
