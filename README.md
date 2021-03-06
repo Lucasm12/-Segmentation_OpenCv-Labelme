@@ -9,4 +9,4 @@ conda activate labelme
 conda install labelme
 ```
 
-Projeto desenvolvido por [Lucas Marques (https://github.com/Lucasm12) :men::computer:
+Projeto desenvolvido por [Lucas Marques (https://github.com/Lucasm12) :man::computer:
