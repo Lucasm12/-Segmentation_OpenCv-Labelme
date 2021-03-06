@@ -8,7 +8,7 @@ conda create --name=labelme python=3.6
 conda activate labelme
 conda install labelme
 ```
-- Logo é feito a segmentação do ponto escolhido,
+- Logo é feito a segmentação do ponto escolhido
 ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/label_viz.png)
 - E com isso foi gerado máscara do respectivo ponto que foi marcado 
 - ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/img1.png)
