@@ -11,6 +11,6 @@ conda install labelme
 - Logo é feito a segmentação do ponto escolhido,
 ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/label_viz.png)
 - E com isso foi gerado máscara do respectivo ponto que foi marcado 
-- ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/label_viz.png)
+- ![img1](https://github.com/Lucasm12/-Segmentation_OpenCv-Labelme/blob/master/paleta_img/img1.png)
 
 Projeto desenvolvido por Lucas Marques (https://github.com/Lucasm12) :man::computer:
